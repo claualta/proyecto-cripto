@@ -1,1 +1,2 @@
 BTC: 60000, ETH: 3000, SOL: 140, ETC: 30
+CASA: Sincronizacion exitosa
