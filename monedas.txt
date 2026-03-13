@@ -1,1 +1,1 @@
-BTC, ETH, SOL
+BTC, ETH, SOL, ETC
